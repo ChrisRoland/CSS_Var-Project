@@ -1,1 +1,1 @@
-An illustration of how to you JavaScript to Update CSS variables
+An illustration on how to use JavaScript to Update CSS variables
